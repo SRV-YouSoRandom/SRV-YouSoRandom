@@ -115,7 +115,7 @@ const SouravDe = {
 ## 🎵 Currently Vibing To
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_USER_ID&count=1&unique=true" alt="Spotify Recently Played" />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31i65zgv7hqoe774ed7wojlmvgki&count=1&unique=true" alt="Spotify Recently Played" />
 </div>
 
 ## 🌐 Let's Connect!
@@ -134,12 +134,6 @@ const SouravDe = {
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</div>
-
-## 🐍 Watch My Contributions Get Eaten!
-
-<div align="center">
-  <img src="https://github.com/SRV-YouSoRandom/SRV-YouSoRandom/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
 
 ---
