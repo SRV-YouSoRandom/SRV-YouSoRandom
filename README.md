@@ -41,7 +41,6 @@ const SouravDe = {
 - 💬 Ask me about **Smart Contracts, DeFi, NFTs, and Blockchain**
 - 📫 How to reach me: **Check out my portfolio at [souravde.xyz](https://souravde.xyz)**
 - 🎯 2025 Goal: **Contribute to major DeFi protocols**
-- ⚡ Fun fact: **I've deployed smart contracts worth over $1M+ TVL!**
 
 ## 🛠️ Tech Stack
 
